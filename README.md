@@ -1,2 +1,3 @@
-# tnat64_recipe
-Yocto Recipe for TNat64 library
+# TNAT64 Yocto Recipe
+Yocto Recipe for TNAT64 library v0.06 (https://github.com/andrewshadura/tnat64)
+
